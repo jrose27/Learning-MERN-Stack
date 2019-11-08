@@ -10,7 +10,7 @@ import './App.css';
 
 function App() {
   return (
-    <Provider>
+    <Provider store={store}>
       <div className="App">
         <AppNavbar/>
         <ShoppingList/>
