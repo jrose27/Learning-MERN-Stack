@@ -1,5 +1,5 @@
-
-node_modules/
+# Need the node_modules to us concurrently
+# node_modules/
 
 # General
 .DS_Store
@@ -27,4 +27,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
